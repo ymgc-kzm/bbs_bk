@@ -1,0 +1,2 @@
+module TestbbsHelper
+end
